@@ -72,10 +72,6 @@ a:hover {
   display: inline-block;
 }
 
-.rad-toggle-btn:hover {
-  background: #9494b8;
-}
-
 .rad-menu-item {
   position: relative;
   padding: 0 10px;
@@ -258,6 +254,7 @@ a:hover {
 }
 
 .rad-body-wrapper {
+  padding: 1em;
   position: absolute;
   left: 250px;
   top: 75px;
