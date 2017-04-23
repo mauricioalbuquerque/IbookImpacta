@@ -1,0 +1,95 @@
+
+/*nav bar*/
+#search {
+    width: 26em;
+    height: 3em;
+    border-top-left-radius: 0.5em;
+    border-bottom-left-radius: 0.5em;
+    border-right: 1px solid #fff;
+    margin-right: -0.1em;
+    border: 1px solid #eee;
+}
+
+#search-type {
+    background: #fff;
+    border: none;
+}
+
+.input-group-addon, .search-categories {
+    background: #fff;
+    border-left: 1px solid #fff;
+    border-top-right-radius: 0.5em;
+    border-bottom-right-radius: 0.5em;
+}
+
+.input-group-addon {
+    background: #fff;
+    border: 1px solid #eee;
+}
+
+a.title {
+    color: #000!important;
+}
+
+#mainNav {
+    background: #fff;
+}
+
+#form-search {
+    width: 0em;
+}
+
+.user {
+    float: right;
+}
+
+#dropdownUser {
+    margin-top: -0.5em;
+    border: none;
+}
+/*///nav bar///*/
+
+#slider-home{
+    height: 45em;
+    background-image: url(../img/banner-livros.png);
+}
+
+#footer-home{
+    background: #eee;
+}
+
+section#contact {
+    background-color: #222;
+    background-image: url(../img/book.jpg)
+}
+
+.dropdown-menu {
+    padding: 2em;
+    margin-left: -9em;
+}
+
+.login {
+    width: 16em;
+}
+
+#btn-drop {
+    margin-top: 1em;
+}
+
+.reg {
+    color: #fff;
+    background: #337ab7;
+    border: none;
+    padding: 0.5em;
+    border-radius: 0.3em;
+    margin-right: 3em;
+    margin-left: 1em;
+}
+
+.enter {
+    color: #fff;
+    background: #a94442;
+    border: none;
+    padding: 0.5em;
+    border-radius: 0.3em;
+}

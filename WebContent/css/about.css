@@ -1,0 +1,26 @@
+.section-heading {
+    margin-bottom: 75px!important;
+    margin-top: -100px!important;
+}
+
+.section-about{
+    color: #000;
+}
+#about{
+    background: #eee;
+}
+
+
+#team{
+    background-image: url(../img/sobre.jpg)
+}
+
+.bg-light-gray {
+    padding-bottom: 3em;
+}
+
+#user-ico{
+    height: 2em;
+    margin-top: 0.5em;
+
+}
